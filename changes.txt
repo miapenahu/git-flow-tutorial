@@ -1,3 +1,5 @@
 First commit, in master branch
 
 Second commit, in develop branch
+
+Commit on feature new-feature branch
